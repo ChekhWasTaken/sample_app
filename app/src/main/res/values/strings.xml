@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TechNewsSample</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dialog_err_title">Error</string>
+    <string name="dialog_err_body">Could not fetch data.\nPlease try again later.</string>
+    <string name="no_data">No data</string>
+    <string name="full_story">Full Story</string>
+</resources>
